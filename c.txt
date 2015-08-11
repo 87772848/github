@@ -7,4 +7,3 @@ printf(¡°he was born in finland.\n¡±);
 printf(¡°he is very clever!\n¡±);
 return 0;
 }
-

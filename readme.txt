@@ -6,3 +6,4 @@ My stupid boss still prefers SVN.
 
 test1
 test2
+test3
